@@ -8,9 +8,9 @@ export default {
       antd: true,
       dva: true,
       dynamicImport: false,
-      title: 'webportal.front.react',
+      title: 'webportal-front-react',
       dll: false,
-      
+
       routes: {
         exclude: [
           /models\//,

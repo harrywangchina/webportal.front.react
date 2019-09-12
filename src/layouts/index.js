@@ -3,7 +3,7 @@ import styles from './index.css';
 function BasicLayout(props) {
   return (
     <div className={styles.normal}>
-      <h1 className={styles.title}>Yay! Welcome to umi!</h1>
+      <h3 className={styles.title}>管理系统</h3>
       {props.children}
     </div>
   );
