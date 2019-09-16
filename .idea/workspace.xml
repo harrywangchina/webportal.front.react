@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fee97f2-8708-4f41-88ec-8807a4e18f55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/services/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/constant.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.umirc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.umirc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/products.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/templates.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/templates/templates.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/templates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/templates/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +43,10 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\codes\webportal.front.react\src\pages\templates" />
+      <recent name="F:\codes\webportal.front.react\src\pages\products" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\codes\webportal.front.react\src\services" />
       <recent name="F:\codes\webportal.front.react\src\utils" />
@@ -72,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568251548687</updated>
       <workItem from="1568251550059" duration="1412000" />
-      <workItem from="1568253411708" duration="9746000" />
+      <workItem from="1568253411708" duration="12280000" />
     </task>
     <servers />
   </component>

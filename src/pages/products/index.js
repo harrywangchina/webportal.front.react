@@ -1,5 +1,5 @@
 import { connect } from 'dva';
-import ProductList from '../components/ProductList';
+import ProductList from '../../components/ProductList';
 
 const Products = ({ dispatch, products }) => {
   function handleDelete(id) {
