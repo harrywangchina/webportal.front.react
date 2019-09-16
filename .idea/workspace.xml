@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3fee97f2-8708-4f41-88ec-8807a4e18f55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/layouts/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/products.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/products.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/products.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/products/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/templates.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/templates/templates.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/templates.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/templates/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="3fee97f2-8708-4f41-88ec-8807a4e18f55" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +27,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/services" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568251548687</updated>
       <workItem from="1568251550059" duration="1412000" />
-      <workItem from="1568253411708" duration="12280000" />
+      <workItem from="1568253411708" duration="16108000" />
     </task>
     <servers />
   </component>
